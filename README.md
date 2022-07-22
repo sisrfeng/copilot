@@ -5,8 +5,10 @@ real-time right from your editor. Trained on billions of lines of public code,
 GitHub Copilot turns natural language prompts including comments and method
 names into coding suggestions across dozens of languages.
 
-Copilot.vim is a Vim plugin for GitHub Copilot.  For now, it requires Neovim
-0.6 (for virtual lines support) and a Node.js installation.
+Copilot.vim is a Vim plugin for GitHub Copilot.
+For now, it requires Neovim  0.6
+(for virtual lines support)
+and a Node.js installation.
 
 To learn more, visit [aka.ms/copilot-learn-more](https://aka.ms/copilot-learn-more)
 
